@@ -1,6 +1,6 @@
 {
   "hello": "こんにちは",
-  "dayjsTemplate": "YYYY년 MM월 DD일",
+  "dayjsTemplate": "YYYY年 MM月 DD日",
   "actions": {
     "copy": "コピー",
     "paste": "貼り付け",
